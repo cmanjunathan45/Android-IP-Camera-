@@ -1,0 +1,5 @@
+requests
+tkinter
+numpy
+opencv-python
+webbrowser
